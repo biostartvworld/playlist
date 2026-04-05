@@ -88,6 +88,8 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
+https://genz2.zibobdixserver.top/302/index.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/64/40/48644059-544a-7465-cab2-1ca0691957e3/Placeholder.mill/400x400bb-75.webp",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="kids",Kids Pang TV
@@ -131,7 +133,11 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/1/6/0/1600fc18ab2b5109bfe2cb72fb7af2f5_fgraphic.png" group-title="Sports",Tapmad 
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",T Sports
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+https://genz2.zibobdixserver.top/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://rvcyberworld.home.blog/wp-content/uploads/2018/07/star-sports-hd-1-large.jpg" group-title="Sports",Star Sports 1
+https://genz2.zibobdixserver.top/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180723/elv/d8ec6612792186b0021ddfc833e76805.webp" group-title="Sports",Star Sports 2
+https://genz2.zibobdixserver.top/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png?w=128" group-title="Sports",WATAN HD
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV
