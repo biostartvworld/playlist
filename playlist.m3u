@@ -136,10 +136,14 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 https://genz2.zibobdixserver.top/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://rvcyberworld.home.blog/wp-content/uploads/2018/07/star-sports-hd-1-large.jpg" group-title="Sports",Star Sports 1
 https://genz2.zibobdixserver.top/110/index.m3u8
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180723/elv/d8ec6612792186b0021ddfc833e76805.webp" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/947782.jpg" group-title="Sports",Star Sports 2
 https://genz2.zibobdixserver.top/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png?w=128" group-title="Sports",WATAN HD
-https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony TEN 1
+https://genz2.zibobdixserver.top/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png" group-title="Sports",Sony TEN 2
+https://genz2.zibobdixserver.top/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5808ad3df297cb205707cb54/1693896593215/star%20sports%20ten%203_logo.svg?tx=w_350" group-title="Sports",Sony TEN 3
+https://genz2.zibobdixserver.top/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmMByrbaLCFU6BqowGKnTpkVXG-FGcYjG2Q&s" group-title="sports", Solhsports
