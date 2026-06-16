@@ -1,8 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/R-NJzpNfFCOxdwRZGFsCzCDK4pLDpfU0MN77CYXf8S9UP4YDbA4YgE_1WIshV2zz54A-Bns=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV HD
-https://streams.btvlive.gov.bd/live/5cb0df3d-765b-4d0b-8e1d-b9716b3f9987/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
 https://streams.btvlive.gov.bd/live/5cb0df3d-765b-4d0b-8e1d-b9716b3f9987/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -133,7 +134,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 #EXTINF:-1 group-title="Hindi"  tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg", NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/1/6/0/1600fc18ab2b5109bfe2cb72fb7af2f5_fgraphic.png" group-title="Sports",Tapmad 
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV
