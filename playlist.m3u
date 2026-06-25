@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 tvg-logo="https://indiantelevision.com/wp-content/uploads/2026/06/unite8.jpg" group-title="Sports",Unitie 8 Sports
