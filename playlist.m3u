@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4Am0DIXQY8pqVOEceJc2kK0vCBNleYU2mUFku0R6pg&s=10" group-title="Sports",BAN vs ZIM 2026
+https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
