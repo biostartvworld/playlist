@@ -11,7 +11,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/unt-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp" group-title="Sports",Bein Sports Fifa
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://10.99.99.99:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=446da4c2d01d353f1fec671afce4f6f2c9e4692a-01cec168bf1b11079ae0c8f770425ac3-1782666464-1782655664
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
