@@ -1,15 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782805216~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcsbqrP5IleO_NKa1WWXdfw5oziVgvkcE0wvMdP9XAdKJ1-iak-QIs3nnSPp0O2r_qf6_C4eajonCynWGglKrsE#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 tvg-logo="https://indiantelevision.com/wp-content/uploads/2026/06/unite8.jpg" group-title="Sports",Unitie 8 Sports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp" group-title="Sports",Bein Sports Fifa
-https://cp11.adabmedia.com/hls2/sport.m3u8
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://10.99.99.99:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=446da4c2d01d353f1fec671afce4f6f2c9e4692a-01cec168bf1b11079ae0c8f770425ac3-1782666464-1782655664
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
@@ -18,8 +17,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/somo
 https://streams.btvlive.gov.bd/live/3ea58e1f-5b56-42f4-bf7d-3e3724d5a9e8/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75" group-title="bangla", BTV CTG
 https://streams.btvlive.gov.bd/live/5cb0df3d-765b-4d0b-8e1d-b9716b3f9987/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1920&q=75" group-title="bangla", Sangsad TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="97" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/960px-Channel_S_Logo.SVG.png" group-title="Bangla",Channel S UK
