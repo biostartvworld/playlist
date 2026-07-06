@@ -4,17 +4,19 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire36373457321
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
 https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire363734573216/toffeelive.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/btv/video.m3u8
+https://cz-pli2.hridoytvx.workers.dev/proxy/http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
 https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire363734573216/somoytvfifa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg" group-title="Sports",DZNZ
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls/deportesplus9.m3u8?md5=zjSa9oOSv2Nn9xsYUWp8PQ&expires=1783351430
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS 1
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=4-DV5nF4T6PFSXCx_oe5qA&expires=1783351409
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/Fifa-1/video.m3u8
-#EXTINF:-1 tvg-logo="https://indiantelevision.com/wp-content/uploads/2026/06/unite8.jpg" group-title="Sports",Unitie 8 Sports
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="Sports",Tlmunda
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn7.zohanayaan.com:1686/hls/telmunda.m3u8?md5=t24cUME3h2G4ozXWWMJNNg&expires=1783351409
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp" group-title="Sports",Bein Sports Fifa
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/dash/fifa_ppv1-video=4770000-1069753468323.dash
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
@@ -230,3 +232,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Sony Sports TEN 5" tvg-logo="https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg" group-title="Sports",Willow
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=7m4OGEO5_8lgheUwYFpBQA&expires=1783351388
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvyvVB76/a43a31fbadd3.jpg" group-title="Sports",Willow 2
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=tyK0QVPCvvbJhhe_5gRk5g&expires=1783351388
