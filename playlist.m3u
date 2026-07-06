@@ -8,7 +8,7 @@ https://cz-pli2.hridoytvx.workers.dev/proxy/http://198.195.239.50:8095/btv/video
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
-https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire363734573216/somoytvfifa.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=59593171
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg" group-title="Sports",Bein Sports Fifa
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn8.zohanayaan.com:1686/hls/bein1france.m3u8?md5=ZJ1SkOkH8IOZp_OL8mTZ3g&expires=1783353211
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg" group-title="Sports",DAZN
