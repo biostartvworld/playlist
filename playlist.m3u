@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png", FiFa World Cup
-https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783465205~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5HP7AHnhr6kJkDU2VaxTFN5N4wFPpaXXdKJaQ5Hzu2Vd_sRencr2-DaDRvu-H1k3MsWLxTaAQ3p569HFs8gxPcB
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Sports",BTV
