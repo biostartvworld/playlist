@@ -216,7 +216,7 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Party Universe B
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" group-title="Sports",Ten Cricket
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire363734573216/cdn/live/slang/ten_cricket_576/ten_cricket_576.m3u8?bitrate=1000000&channel=ten_cricket_576&gp_id=
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ten_cricket_576/ten_cricket_576.m3u8?bitrate=1000000&channel=ten_cricket_576&gp_id
 #EXTINF:-1 tvg-id="116" tvg-name="Sony Sports TEN 5" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png" group-title="Sports",Sony Sports TEN 5
 https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire363734573216/cdn/live/slang/sony_sports_5_hd_576/sony_sports_5_hd_576.m3u8?bitrate=1000000&channel=sony_sports_5_hd_576&gp_id=
 #EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://i.postimg.cc/L5crRk13/Resized-Image-2026-06-25-09-53-34-9141-4.webp" group-title="Sports",Sony Sports TEN 1
@@ -233,9 +233,3 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="Sony Sports TEN 5" tvg-logo="https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg" group-title="Sports",Willow
-https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=7m4OGEO5_8lgheUwYFpBQA&expires=1783351388
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvyvVB76/a43a31fbadd3.jpg" group-title="Sports",Willow 2
-https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=tyK0QVPCvvbJhhe_5gRk5g&expires=1783351388
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg" group-title="Sports",A Sports
-https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=7FLSnggRKdAjjPnXe9G2Uw&expires=1783353193
