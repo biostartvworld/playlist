@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-14775" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833330701020x576.jpg" group-title="Sports", Zimbabwe vs Bangladesh ODI | Bangladesh Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png", FiFa World Cup
 https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports",Toffee Live Fifa World Cup 2026
