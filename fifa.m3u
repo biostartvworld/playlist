@@ -7,7 +7,6 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
-https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/somoy-fifa.png" group-title="Sports",Somay Tv
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
@@ -18,7 +17,6 @@ https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS 1
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=4-DV5nF4T6PFSXCx_oe5qA&expires=1783351409
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-https://tvex.easypecker.com/ptv_nix/tracks-v1a1/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/Fifa-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="Sports",Tlmunda
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn7.zohanayaan.com:1686/hls/telmunda.m3u8?md5=t24cUME3h2G4ozXWWMJNNg&expires=1783351409
