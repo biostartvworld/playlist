@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png", Nagorik TV
 https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png", Gazi TV
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
 https://streams.btvlive.gov.bd/live/3ea58e1f-5b56-42f4-bf7d-3e3724d5a9e8/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -41,6 +43,7 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-JALSHA-HD/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 https://tvex.easypecker.com/starjolsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6DhuRXGs_kZuJmKdAm2AjZh9mXtj0ieTG77_vwYuug&s",Colors Bangla 
@@ -106,21 +109,18 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Albania Music
 https://albportal.net/albkanalemusic.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Party Universe B
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBJir20qgKRzbvYiGXfl2AI0vup8JyWzYSIprEaW2pw&s=10" group-title="Sports",Star Sports 2
-https://tvex.easypecker.com/StarSports2/tracks-v1a1/mono.m3u8
-https://tvex.easypecker.com/StarSportss1/tracks-v1a1/mono.m3u8
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SPORTS-2-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="Sports",Star Sports 1
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SPORTS-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="116"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiLHzqQJ5aQ_2Yw42XrkbFxLaLKaCLsusAuv5SRnaGg&s=10" group-title="Sports",A Sports
-https://tvex.easypecker.com/A-SPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV8FkJ_1PvfJVYn5Br8kLKTqAeLUevJY5T8NcW1vvbw&s=10" group-title="Sports",Star Sports Select 1
-https://tvex.easypecker.com/StarSportss1/tracks-v1a1/mono.m3u8
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https://tvex.easypecker.com/A-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-1.png0" group-title="Sports",Star Sports Select 1
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SELECT-1-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-2.png" group-title="Sports",Star Sports Select 2
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SELECT-2-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV 1
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV 2
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" group-title="sports",NBC Sports
