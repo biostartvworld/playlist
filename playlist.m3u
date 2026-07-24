@@ -50,8 +50,6 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweRp_d3WoEmdfZ5jyzM4pVULm_SUR-JRW9u9Fnrj1rg&s=10" group-title="inbangla" , SANANDA TV
 https://live.sanandatelevision.in/sananda/index.m3u8
-#EXTINF:-1 group-title="inbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",Sony Aath
-https://tvex.easypecker.com/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/64/40/48644059-544a-7465-cab2-1ca0691957e3/Placeholder.mill/400x400bb-75.webp",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="kids",Kids Pang TV
@@ -109,29 +107,3 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Albania Music
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBJir20qgKRzbvYiGXfl2AI0vup8JyWzYSIprEaW2pw&s=10" group-title="Sports",Star Sports 2
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SPORTS-2-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="Sports",Star Sports 1
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SPORTS-1-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="116"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiLHzqQJ5aQ_2Yw42XrkbFxLaLKaCLsusAuv5SRnaGg&s=10" group-title="Sports",A Sports
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https://tvex.easypecker.com/A-SPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-1.png" group-title="Sports",Star Sports Select 1
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SELECT-1-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-2.png" group-title="Sports",Star Sports Select 2
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/STAR-SELECT-2-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV 1
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="sports",Fifa TV 2
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" group-title="sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="sports",DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-#EXTINF:-1   tvg-logo="https://images.seeklogo.com/logo-png/11/2/real-madrid-c-f-logo-png_seeklogo-116415.png" group-title="sports",Real Madrid FC
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQA6A3KyRRDubs_e-IW6RE5zbrwAdnBrgx_ZlEoK13hw&s=10", Willow
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
