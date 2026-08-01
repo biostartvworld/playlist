@@ -7,8 +7,7 @@ https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5
 https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvhPl-HpQuauHXBn1cIXQwMQj2cEC4YZNLxGEFVHYM7wal8DaDR3GAEI&s=10" group-title="Sports",Unit8 Sports 1
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT1%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports",Unit8 Sports 1
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT1%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2BdZifcwD-5A2pZxe1NBaMP5OrnuKVnhrgoIcFs_3rG6AB7Debv5Bes&s=10" group-title="Sports",Bein Sports 1
