@@ -112,7 +112,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Iqraa TV
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png",Nagorik TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ677dpw2Fj24YEgr8eBco_fxlPwd3Okr5s8zy6_B5tjw&s",Nagorik TV
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png",Gazi TV
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8
